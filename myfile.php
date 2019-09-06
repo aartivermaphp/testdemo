@@ -1,1 +1,1 @@
-This is my myfile.php which is merged to maaster branch.
+Edit in myfile in branch mybranch.
